@@ -35,9 +35,9 @@ Server rules always take precedence — using client-side mods on servers that d
 🙏 Credits
 Built on top of the open-source OyVey client base. Full credit to:
 
-3arthqu4ke
-alpha432
-cattyn (@cattyngmd) — OyVey ported to 1.21.5
+3arthqu4ke,
+alpha432,
+cattyn, (@cattyngmd) — OyVey ported to 1.21.5
 Original project: https://github.com/cattyngmd/oyvey-ported — licensed under the MIT License, which epe-ware keeps intact.
 
 💬 Need help?
