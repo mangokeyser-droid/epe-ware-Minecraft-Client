@@ -6,7 +6,6 @@
 3. Open your Minecraft folder:
 
 Windows — press Win + R, type %appdata%\.minecraft, press Enter
-macOS — ~/Library/Application Support/minecraft
 Linux — ~/.minecraft
 4. If there is no mods folder inside it, create one.
 
