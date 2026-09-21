@@ -14,6 +14,7 @@ Linux — ~/.minecraft
 
 epe-ware-1.0-SNAPSHOT.jar
 fabric-api-<version>.jar
+
 6. Launch Minecraft and select the Fabric 1.21.5 profile.
 
 7. Press INSERT in-game to open the ClickGui.
