@@ -4,7 +4,7 @@ VIRUSTOTAL HASH: 77070234aaf6c96259be9c31c117e3ada95f907b9c9793fcdf7dacb9b54485e
 
 VIRUSTOTAL LINK: https://www.virustotal.com/gui/file/77070234aaf6c96259be9c31c117e3ada95f907b9c9793fcdf7dacb9b54485e6?nocache=1
 
-
+PLEASE NOTICE: SOME FEATURES DO NOT WORK! / AUTOCRYSTAL IS NOT WORKING AND WILL BE FIXED.
 
 📦 Installation
 1. Install Fabric Loader for Minecraft 1.21.5 — run the installer, click Install, and pick 1.21.5.
